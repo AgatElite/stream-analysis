@@ -8,11 +8,6 @@ This project implements advanced **Stream Processing Algorithms** to analyze the
 
 The implementation focuses on memory efficiency and scalability, comparing algorithmic estimates against exact ground truth values calculated in real-time.
 
-## Key Algorithms
-
-* **Flajolet-Martin (FM):** Uses hash functions and trailing zero analysis to estimate the number of unique user IDs in the stream. Improved accuracy is achieved through a "median-of-averages" approach.
-* **AMS Estimator:** Utilizes reservoir sampling and randomized variables to estimate the surprise requirement (second moment), identifying the frequency distribution of the data stream.
-
 ## How to Run
 
 1. Click the **"Open in Colab"** badge above.
