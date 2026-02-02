@@ -17,5 +17,5 @@ The implementation focuses on memory efficiency and scalability, comparing algor
 ## Repository Structure
 
 * `Project_7_Stream_Analysis.ipynb`: The main notebook containing the stream simulation and algorithm implementations.
-* `Stream_Analysis_Report.pdf`: The paper reporting the methods employed and the conclusions found in the project.
 * `README.md`: Project documentation.
+* `Stream_Analysis_Report.pdf`: The paper reporting the methods employed and the conclusions found in the project.
